@@ -73,6 +73,10 @@ oneMinKline
 otherKline
 
 遵循服务器命名规则后，可以在本地使用 professionTradeServer文件夹里的 uploadTradeServer.py 简单的上传和执行所有程序
+
+
+请确保所有服务器均已上传binance_f,binance_spot,binance_d三个交易api的包文件夹
+
 其中
 wsServer 服务器
 运行tradeServer.py文件，作为登录注册，配置保存服务器，要求开启8888端口
