@@ -10,6 +10,9 @@
 
 可以同时暂时全合约市场的交易对裸K（目前是440个），并且根据拟定的排序规则快速排序
 
+服务端程序下载地址 https://ggggame.oss-cn-shenzhen.aliyuncs.com/professionTradeServer_public.rar
+
+前端程序下载地址 https://ggggame.oss-cn-shenzhen.aliyuncs.com/react-front-public.rar
 # 前端操作
 
 ![image](https://github.com/user-attachments/assets/e5f0b19a-56f3-4aba-911a-6701fb06b97c)
