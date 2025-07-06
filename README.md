@@ -146,6 +146,8 @@ export const wsServerURL = "";
 
 前端是由react+redux+antd 写的web网页
 
+个人安装环境为 node-v16.20.2 
+
 首先在本地运行npm start
 
 你也可以在配置完成后运行npm run build 后，上传到公网服务器
