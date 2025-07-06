@@ -157,7 +157,8 @@ export const wsServerURL = "";
 刷新网页后
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/da1015cc-2f1f-4c06-8b30-b431ee8ab7e4)
+
 
 跳转到这个页面，绑定api，请注意，当初我设计这套系统的时候，设想是商业化的，并且还有直播功能，也就是交易员交易，其他人可以通过live页面全程观看，所以有这一系列保存服务器的操作，但是所有的信息均只存在于你自己购买的数据库，如果出现泄漏请勿找我
 
