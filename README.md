@@ -16,6 +16,8 @@
 
 此外本人有付费的量化交易实盘源码和思路，具体请进入 http://melelery.com 查看
 
+如github图片加载不出，请通过知乎文章阅读以下内容 https://www.zhihu.com/people/melelery
+
 # 前端操作
 
 ![image](https://github.com/user-attachments/assets/e5f0b19a-56f3-4aba-911a-6701fb06b97c)
