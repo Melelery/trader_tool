@@ -20,6 +20,13 @@
 
 # 前端操作
 
+下面两个配置截图展示了系统绝大部分功能
+
+![image](https://github.com/user-attachments/assets/e34d99c3-c729-43c0-8a3b-de164c8b21a0)
+
+![image](https://github.com/user-attachments/assets/54f8529d-ef4e-4d9c-91d2-06dc3a30c107)
+
+
 ![image](https://github.com/user-attachments/assets/e5f0b19a-56f3-4aba-911a-6701fb06b97c)
 
 首先，这就是整个交易页面，可同时展示440个交易对的裸k
