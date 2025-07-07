@@ -8,7 +8,7 @@
 
 特色是可以使用键盘像打游戏一样进行交易，而且配置的自由度超过市面上的全部产品
 
-可以同时暂时全合约市场的交易对裸K（目前是440个），并且根据拟定的排序规则快速排序
+可以同时展示全合约市场的交易对裸K（目前是440个），并且根据拟定的排序规则快速排序
 
 服务端程序下载地址 https://ggggame.oss-cn-shenzhen.aliyuncs.com/professionTradeServer_public.rar
 
